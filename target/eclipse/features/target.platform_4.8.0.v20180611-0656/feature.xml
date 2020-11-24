@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="target.platform"
+      label="Target Platform"
+      version="1.0.0"
+      provider-name="Vendor">
+
+   <plugin
+	id="org.apache.ant"
+	download-size="0"
+	install-size="0"
+	version="1.10.3.v20180417-1627"/>
+</feature>

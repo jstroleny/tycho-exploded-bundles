@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="my.feature"
+      label="My Feature"
+      version="1.0.0"
+      provider-name="vendor">
+
+    <plugin id="my.example.bundle"/>
+    
+</feature>
