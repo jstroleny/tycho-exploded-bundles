@@ -5,6 +5,9 @@
       version="1.0.0"
       provider-name="vendor">
 
-    <plugin id="my.example.bundle"/>
+    <plugin id="my.example.bundle"
+	download-size="0"
+	install-size="0"
+	version="1.0.0"/>
     
 </feature>
