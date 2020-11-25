@@ -6,11 +6,17 @@
   <artifactId>releng</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <pluginRepositories>
+   <pluginRepository>
+      <id>tycho-snapshots</id>
+      <url>https://repo.eclipse.org/content/repositories/tycho-snapshots/</url>
+   </pluginRepository>
+  </pluginRepositories>
   <properties>
     <maven.compiler.target>11</maven.compiler.target>
     <maven.compiler.source>11</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <tycho.version>2.1.0</tycho.version>
+    <tycho.version>2.2.0-SNAPSHOT</tycho.version>
   </properties>
   <build>
     <plugins>
