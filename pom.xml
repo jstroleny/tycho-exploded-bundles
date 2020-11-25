@@ -13,7 +13,7 @@
     <relativePath>releng</relativePath>
   </parent>
   <modules>
-    <module>target</module>
+    <module>platform</module>
     <module>feature/my.feature</module>
     <module>bundles</module>
     <module>releng</module>
